@@ -1,0 +1,6 @@
+c:\ws1\ws1\bin\Debug\ws1.exe
+c:\ws1\ws1\bin\Debug\ws1.pdb
+c:\ws1\ws1\obj\x86\Debug\ws1.ProjectInstaller.resources
+c:\ws1\ws1\obj\x86\Debug\ws1.csproj.GenerateResource.Cache
+c:\ws1\ws1\obj\x86\Debug\ws1.exe
+c:\ws1\ws1\obj\x86\Debug\ws1.pdb
